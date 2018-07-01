@@ -1,0 +1,11 @@
+
+# compiled output
+/cliente/dist
+/cliente/tmp
+/cliente/out-tsc
+
+# dependencies
+/cliente/node_modules
+
+# compiled server
+/servidor/target/
